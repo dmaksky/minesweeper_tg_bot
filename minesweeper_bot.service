@@ -7,8 +7,8 @@ Requires=redis-server.service
 [Service]
 Type=simple
 User=minesweeper_bot
-WorkingDirectory=/opt/minesweeper_bot
-ExecStart=/opt/minesweeper_bot/venv/bin/python3 /opt/minesweeper_bot/main.py
+WorkingDirectory=/opt/minesweeper_tg_bot
+ExecStart=/opt/minesweeper_tg_bot/venv/bin/python3 /opt/minesweeper_tg_bot/main.py
 Restart=always
 
 [Install]
