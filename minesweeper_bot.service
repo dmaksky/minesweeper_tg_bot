@@ -1,0 +1,15 @@
+[Unit]
+Description=Minesweeper tg bot
+After=syslog.target
+After=network.target
+Requires=redis-server.service
+
+[Service]
+Type=simple
+User=minesweeper_bot
+WorkingDirectory=/opt/minesweeper_bot
+ExecStart=/opt/minesweeper_bot/venv/bin/python3 /opt/minesweeper_bot/main.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
