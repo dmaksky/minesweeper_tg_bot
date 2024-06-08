@@ -1,6 +1,9 @@
 # Minesweeper Bot
 
-**Note: This project is in an early release stage.**
+[![Telegram](https://img.shields.io/badge/Telegram-@minesweeper_game_tgbot-black)](https://t.me/minesweeper_game_tgbot)
+[![My own cgit](https://img.shields.io/badge/My_git-git.akshevsky.ru-black)](https://git.akshevsky.ru/minesweeper_bot.git)
+
+**🚧 Warning: This bot is in an early release stage. Expect bugs and incomplete features. 🚧**
 
 A Telegram bot that allows users to play Minesweeper directly in their chat.
 
