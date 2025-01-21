@@ -1,7 +1,6 @@
 # Minesweeper Bot
 
 [![Telegram](https://img.shields.io/badge/Telegram-@minesweeper_game_tgbot-black)](https://t.me/minesweeper_game_tgbot)
-[![My own cgit](https://img.shields.io/badge/My_git-git.akshevsky.ru-black)](https://git.akshevsky.ru/minesweeper_bot.git)
 
 **🚧 Warning: This bot is in an early release stage. Expect bugs and incomplete features. 🚧**
 
